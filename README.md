@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my home lab prolly
 - 📫 How to reach me: spigelli#1789 (discord)
+- :man_technologist:	Status: Writing bugs...
 
 [comment]: <> (- 🌱 I’m currently learning vmware esxi)
 
