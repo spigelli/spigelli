@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my home lab prolly
-- 🌱 I’m currently learning vmware esxi
 - 📫 How to reach me: spigelli#1789 (discord)
+
+[comment]: <> (- 🌱 I’m currently learning vmware esxi)
 
 <span align="center" markdown="1" style="display:table;">
 
